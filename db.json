@@ -1,16 +1,46 @@
 {
-  "posts":[
+  "kamar": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "nama": "intan",
+      "jeniskamar": "jiejeisjie",
+      "tanggal": "sesesesese",
+      "tanggalSelesai": "seseses"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "nama": "intasssn",
+      "jeniskamar": "jiejeisssjie",
+      "tanggal": "sesesesessse",
+      "tanggalSelesai": "sesssseses"
+    },
+    {
+      "nama": "huhuhuh",
+      "jeniskamar": "Kamar Ac",
+      "tanggal": "2022-10-03",
+      "tanggalSelesai": "2023-10-03T00:00:00.000Z",
+      "id": 3
+    },
+    {
+      "nama": "ssasasa",
+      "jeniskamar": "Kamar Extra Large",
+      "tanggal": "2022-10-15",
+      "tanggalSelesai": "2023-10-15T00:00:00.000Z",
+      "id": 4
+    },
+    {
+      "nama": "xdxdxd",
+      "jeniskamar": "Kamar Extra Large",
+      "tanggal": "2022-10-09",
+      "tanggalSelesai": "2023-10-09T00:00:00.000Z",
+      "id": 5
+    },
+    {
+      "nama": "umarbbb",
+      "jeniskamar": "Kamar Ac",
+      "tanggal": "2022-10-05",
+      "tanggalSelesai": "2023-10-05T00:00:00.000Z",
+      "id": 6
     }
   ]
 }
